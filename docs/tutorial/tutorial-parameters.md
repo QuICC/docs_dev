@@ -1,4 +1,4 @@
-back to [home](/home)/[tutorial](/tutorial)
+back to [home]({{ site.baseurl }}/)/[tutorial]({{ site.baseurl }}/tutorial)
 
 # Parameters.cfg
 
@@ -89,4 +89,4 @@ The simulation part depends on the simulation that is being used.
       This part contains the boundary condition flags of the simulation. The meaning of the values should be checked in the Python model file.
          
 
-back to [home](/home)/[tutorial](/tutorial)
+back to [home]({{ site.baseurl }}/)/[tutorial]({{ site.baseurl }}/tutorial)

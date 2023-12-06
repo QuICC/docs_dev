@@ -4,8 +4,8 @@ title: Tutorial
 permalink: /tutorial/
 ---
 
-back to [home](/home)
+back to [home]({{ site.baseurl }}/)
 
 # [parameters.cfg](tutorial-parameters)
 
-back to [home](/home)
+back to [home]({{ site.baseurl }}/)

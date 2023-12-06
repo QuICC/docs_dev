@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Documentat for dev branch"
+title:  "Documentation for dev branch"
 date:   2023-12-06 12:22:14 +0100
 categories: jekyll update
 ---
