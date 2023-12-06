@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Tutorial
-permalink: /tutorial/
+permalink: /docs_dev/tutorial/
 ---
 
-back to [home](home)
+back to [docs_dev](/docs_dev)
 
-# [Configure](tutorial-configure)
+# [parameters.cfg](tutorial-parameters)
 
-back to [home](home)
+back to [docs_dev](/docs_dev)
